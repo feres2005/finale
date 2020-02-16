@@ -1,0 +1,101 @@
+#makeRed{
+	color: red;
+}
+body{
+background-color: #ffff66;
+width:1000px;
+
+}
+h3{
+	color: C19A4A;
+;
+}
+div{
+height: 40px;
+color:
+margin-top:30px;
+margin-left:50px;
+}
+h1:hover{
+	color:DC143C;
+	font-size:50px;
+}
+h2:hover{
+	font-size:25px;
+		color:blue;
+
+}
+.text{
+	height: 90px;
+	border:1px solid red;
+	background-color: white;
+	display: inline-block;
+}
+#mot{
+	color: red;
+}
+#mot:hover{
+color: blue;
+}
+hr{
+color: white;
+}
+#game{
+	color: green;
+}
+#controller:hover{
+	color:green;
+}
+.gamers{
+	
+	
+	border: 0.50px solid green;
+	background-color: green;
+	display: inline-block;
+}
+.feres{
+
+}
+.bouderhem{
+	height: 60px;
+	border: 1px solid blue;
+	background-color: white;
+	display: inline-block;
+}
+#tournament,#duty{
+color: blue;
+}
+#prix{
+	color: red;
+}
+#saahil{
+	color: green;
+}
+#maroun{
+	color: blue;
+}
+#sumail{
+	color: 666666;
+}
+#jesse{
+	color: 660066;
+}
+#lasse{
+	color: 00f6e7;
+}
+#ivan{
+	color: 6f9600;
+}
+#amer{
+	color: ff4c00;
+}
+#johan{
+	color: 6c4c00;
+}
+#kuro{
+	color: 6c3bad;
+}
+#id{
+	color: red;
+	font-size: 20px
+}

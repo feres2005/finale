@@ -1,0 +1,413 @@
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web&display=swap");
+
+#makeRed {
+  color: red;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+  width: 300px;
+  display: inline-block;
+}
+
+/*.buttonone {
+	margin-right: 350px;
+}
+
+.buttontwo {
+	margin-right: 350px;
+}
+
+.buttonthree {
+	margin-right: 350px;
+}
+
+ul {
+	display: flex;
+	justify-content: center;
+}*/
+
+body {
+  background-color: #eae2b7;
+  animation: bg-color 10s infinite;
+  -webkit-animation: bg-color 10s infinite;
+  margin-bottom: 20px;
+  font-family: "Titillium Web", sans-serif;
+  font-weight: 300;
+}
+
+p {
+  text-align: center;
+  margin-top: none;
+  color: rgb(108, 10, 189);
+}
+
+a {
+  text-decoration: none;
+  color: #f77f00;
+  margin-right: 40px;
+  font-size: 30px;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #f77f00;
+
+  text-shadow: 4px 2px #bebebe;
+}
+
+h3 {
+  color: #4770f3;
+}
+
+.mypic {
+  height: 600px;
+}
+
+.pros {
+  height: 600px;
+}
+
+h1:hover {
+  color: #dc143c;
+  font-size: 50px;
+}
+
+h2 {
+  color: #003049;
+}
+
+h4 {
+  color: #d62828;
+
+  margin-bottom: none;
+}
+
+#game-introduction {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+.flex-game-item {
+  width: 100%;
+  text-align: center;
+}
+
+#best-video-game-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+ 
+}
+
+.text {
+  height: 90px;
+  border: 1px solid red;
+  background-color: white;
+  display: inline-block;
+}
+
+#mot {
+  color: red;
+}
+
+#mot:hover {
+  color: blue;
+}
+
+hr {
+  color: white;
+}
+
+#game {
+  color: green;
+}
+
+#controller:hover {
+  color: green;
+}
+
+.gamers {
+  border: 0.5px solid green;
+  background-color: green;
+  display: inline-block;
+}
+
+.bouderhem {
+  height: 60px;
+  border: 1px solid blue;
+  background-color: blue;
+  display: inline-block;
+}
+
+#tournament,
+#duty {
+  color: green;
+}
+
+#prix {
+  color: red;
+}
+
+#saahil {
+  color: green;
+}
+
+#maroun {
+  color: blue;
+}
+
+#sumail {
+  color: 666666;
+}
+
+#jesse {
+  color: 660066;
+}
+
+#lasse {
+  color: 00f6e7;
+}
+
+#ivan {
+  color: 6f9600;
+}
+
+#amer {
+  color: ff4c00;
+}
+
+#johan {
+  color: 6c4c00;
+}
+
+#kuro {
+  color: 6c3bad;
+}
+
+#id {
+  color: red;
+  font-size: 20px;
+}
+
+p {
+  padding: 60px;
+  margin-top: 0px;
+  color: black;
+}
+
+.header {
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 500px;
+}
+
+.header h3 {
+  color: red;
+  margin-left: 50%;
+  font-size: 40px;
+  box-shadow: 0 3px 2px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+}
+
+.name,
+.number,
+.day,
+.pass {
+  color: white;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.klay {
+  color: red;
+  background-color: white;
+}
+
+.link {
+  margin-right: 0px;
+}
+
+.adel {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.feres {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+.koki {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.barnat {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.hejer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.fathiya {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.sarra {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.beskri {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.yousssef {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.bros {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.res {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 200px;
+}
+
+.ps4-container {
+  display: none;
+}
+
+.xbox-container {
+  display: none;
+}
+
+.pcgamer-container {
+  display: none;
+}
+
+.ps4-container {
+  margin-top: 10px;
+  height: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.xbox-container {
+  margin-top: 10px;
+  height: auto;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pcgamer-container {
+  margin-top: 10px;
+  height: auto;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.button {
+  flex-wrap: wrap;
+  justify-content: center;
+  display: flex;
+}
+
+.nintendo-container {
+  margin-top: 10px;
+  height: auto;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.two-times {
+  animation-iteration-count: 2;
+}
+.navbar-container {
+  width: 950px;
+  margin: 5px auto;
+}
+.button-style{
+	padding: 4px 8px 4px 8px;
+	border-radius: 13px;
+	margin: 2px;
+	border: 1px solid rgb(48, 46, 46);
+	transition: background-color 300ms ease-in-out, color 300ms ease-in-out;
+
+}
+.button-style:hover{
+background-color: chocolate;
+color: white;
+transition: background-color 500ms ease-in-out, color 500ms ease-in-out;
+box-shadow: 1px 2px rgb(88, 87, 87);
+cursor: pointer;
+}
+.form-quest{
+	display: block;
+}
+.form{
+	color:#0b6e4f
+}
+.ps{
+	font-size: 20px;
+	color:#721817
+}
+.x{
+	font-size: 20px;
+	color:#721817
+}
+.c{
+	font-size: 20px;
+	color:#721817
+}
+.nin{font-size: 20px;
+	color:#721817}
+.inline{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	margin-bottom: 70px;
+}
